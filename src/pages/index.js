@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Versolid, first large file friendly VCS">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
