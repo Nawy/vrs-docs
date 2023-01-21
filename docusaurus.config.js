@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Versolid',
   tagline: 'We make game development easy',
-  url: 'https://your-docusaurus-test-site.com',
-  //baseUrl: '/',
-  baseUrl: '/versolid_docs/',
+  url: 'https://versolid.com',
+  baseUrl: '/',
+  //baseUrl: '/versolid_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
