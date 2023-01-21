@@ -2,25 +2,25 @@
 sidebar_position: 1
 ---
 
-# Versolid
+# Quick start
 
 Let's discover **Versolid in less than 5 minutes**.
 
-## COMMANDS
+## Commands
 
-### INIT
+### Init
 Initialize Versolid project in current folder: 
 ```bash
 vrs init
 ```
 
-### STATUS
+### Status
 Check status of Versolid project:
 ```bash
 vrs status
 ```
 
-### COMMIT
+### Commit
 Create commit:
 ```bash
 vrs commit new "<commit_name>"
