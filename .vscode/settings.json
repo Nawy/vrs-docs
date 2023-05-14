@@ -1,0 +1,9 @@
+{
+  "typescript.format.enable": true,
+  "javascript.format.enable": true,
+  "vetur.format.defaultFormatter.js": "prettier",
+  "vetur.format.defaultFormatter.ts": "none",
+  "vetur.format.enable": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true
+}

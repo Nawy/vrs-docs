@@ -1,0 +1,81 @@
+/**
+ * Do not edit directly
+ * Generated on Sat, 22 Apr 2023 14:43:12 GMT
+ */
+
+ :root {
+    --vlp-brand-1: #ff1b1c;
+    --vlp-brand-2: #b8f867;
+    --vlp-brand-3: #624cab;
+    --vlp-brand-4: #d8d4f2;
+    --vlp-brand-5: #000000;
+    --vlp-brand-6: #ffffff;
+    --vlp-neutral-bg: #ffffff;
+    --vlp-neutral-bg-weak: #fafafa;
+    --vlp-neutral-bg-medium: #f1f1f1;
+    --vlp-neutral-bg-inversed: #000000;
+    --vlp-neutral-text: #000000;
+    --vlp-neutral-text-weak: #9f9f9f;
+    --vlp-neutral-text-inversed: #fafafa;
+    --vlp-neutral-border: #343434;
+    --vlp-neutral-border-weak: #9f9f9f;
+    --vlp-neutral-border-medium: #767676;
+    --vlp-neutral-border-strong: #000000;
+    --vlp-neutral-icon: #000000;
+    --vlp-neutral-icon-weak: #676767;
+    --vlp-accent-bg: #b8f867;
+    --vlp-accent-text: #b8f867;
+    --vlp-accent-text-strong: #30a02a;
+    --vlp-accent-border: #b8f867;
+    --vlp-accent-icon: #b8f867;
+    --vlp-illustration-primary-bg: #ff1b1c;
+    --vlp-illustration-primary-border: #ff1b1c;
+    --vlp-illustration-primary-bg-accent: #b8f867;
+    --vlp-illustration-primary-bg-accent-medium: #a5d369;
+    --vlp-illustration-primary-bg-accent-weak: #aeef5c33;
+    --vlp-illustration-primary-border-accent: #b8f867;
+    --vlp-illustration-primary-border-accent-medium: #5cd276;
+    --vlp-illustration-secondary-bg: #624cab;
+    --vlp-illustration-secondary-bg-medium: #A7A5DC;
+    --vlp-illustration-secondary-bg-strong: #27187e;
+    --vlp-illustration-secondary-border: #624cab;
+    --vlp-illustration-secondary-bg-weak: #d8d4f2;
+    --vlp-illustration-secondary-icon: #624cab;
+    --vlp-illustration-tertriary-bg: #ffd95c;
+    --vlp-illustration-tertriary-bg-weak: #fcd4b5;
+    --vlp-illustration-tertriary-bg-medium: #f8cf46;
+    --vlp-illustration-tertriary-bg-strong: #fa9438;
+    --vlp-illustration-gradient-option-1: linear-gradient(180deg, #ffd95c 0%, #ff1b1c 100%);
+    --vlp-illustration-gradient-option-2: linear-gradient(180deg, #ff1b1c 0%, #d8d4f2 100%);
+    --vlp-font-families-body: Inter;
+    --vlp-font-families-headlines: Didact Gothic;
+    --vlp-font-families-code: PT Mono;
+    --vlp-line-heights-body: 1.5;
+    --vlp-line-heights-headlines: 1.24;
+    --vlp-font-weights-regular: 400;
+    --vlp-font-weights-medium: 500;
+    --vlp-font-weights-semi-bold: 600;
+    --vlp-font-weights-bold: 700;
+    --vlp-font-size-sm: 12px;
+    --vlp-font-size-base: 16px;
+    --vlp-font-size-md: 24px;
+    --vlp-font-size-lg: 32px;
+    --vlp-font-size-xl: 48px;
+    --vlp-font-size-xxl: 64px;
+    --vlp-letter-spacing-body: 0em;
+    --vlp-letter-spacing-headlines: -0.01em;
+    --vlp-text-decoration-none: none;
+    --vlp-text-decoration-underline: underline;
+    --vlp-spaces-min: 2px;
+    --vlp-spaces-sm: 4px;
+    --vlp-spaces-md: 8px;
+    --vlp-spaces-lg: 12px;
+    --vlp-spaces-xl: 16px;
+    --vlp-spaces-xxl: 20px;
+    --vlp-flat-shadow-option-1: 12px 12px 0 0 #ffd95c;
+    --vlp-flat-shadow-option-2: 12px 12px 0 0 #d8d4f2;
+    --vlp-radius-xs: 2px;
+    --vlp-radius-sm: 8px;
+    --vlp-radius-base: 20px;
+    --vlp-radius-md: 40px;
+}
