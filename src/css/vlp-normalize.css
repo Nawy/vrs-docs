@@ -192,6 +192,11 @@ a.navbar__brand>.navbar__title:focus {
     }
 }
 
+.theme-doc-sidebar-menu ul.menu__list .menu__list-item {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 
 /* btns */
 

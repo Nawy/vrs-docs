@@ -80,24 +80,25 @@ const config = {
                 ],
             },
             footer: {
+                links: [{
+                    label: 'Explore',
+                    href: 'https://versolid.com',
+                },
+                {
+                    label: 'Tutorial',
+                    to: '/docs/intro/'
+                },
+                {
+                    label: 'Blog',
+                    to: '/blog',
+                }
+                ],
                 logo: {
                     alt: 'Versolid Logo',
                     src: 'img/logo-symbol.svg',
                     height: 20,
                 },
-                // links: [{
-                //     items: [{
-                //         label: 'Explore',
-                //         href: '/',
-                //     }, {
-                //         type: 'doc',
-                //         docId: 'intro',
-                //         label: 'Tutorial',
-                //     },
-                //     { to: '/blog', label: 'Blog' },
-                //     ],
-                // }],
-                // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} Versolid`,
             },
             prism: {
                 theme: lightCodeTheme,
